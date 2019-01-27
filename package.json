@@ -5,6 +5,9 @@
   "scripts": {
     "start": "webpack-dev-server"
   },
+  "prettier": {
+    "singleQuote": true
+  },
   "devDependencies": {
     "awesome-typescript-loader": "3.2.3",
     "typescript": "2.5.3",
